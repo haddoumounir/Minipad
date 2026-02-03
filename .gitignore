@@ -1,0 +1,4 @@
+# Ignore object files and build artifacts
+obj/
+*.o
+minipad
